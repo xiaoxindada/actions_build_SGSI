@@ -1,9 +1,9 @@
 {
-  "rom_url": "http://download.h2os.com/OnePlus8Pro/MP/OnePlus8ProHydrogen_15.H.35_OTA_0350_all_2103232117_5a455e79c52e47d2.zip",
-  "rom_name": "update.zip",
+  "rom_url": "https://xiaomi.baishancdnx.cn/xdispatch7d29417574a27966/bigota.d.miui.com/22.7.6/miui_TUCANA_22.7.6_7a8195b121_11.0.zip?bsreqid=03cb5e52cf8ac90717ea1423e84849f5&DPhost=xiaomi.baishancdnx.cn",
+  "rom_name": "miui_TUCANA_22.7.6_7a8195b121_11.0.zip",
   "pack_sgsi": "SGSI.zip",
   "make_type": "AB",
-  "rom_type": "",
+  "rom_type": "MIUI",
   "light_fix": true,
   "bug_fix": true,
   "version": "11",
